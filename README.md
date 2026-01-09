@@ -1,7 +1,7 @@
 # Hi, I'm Srijan Sharma 👋
 
 🚀 **Full-Stack Developer | Business Central (AL) Developer | AI & Chatbot Enthusiast**  
-🎓 B.Tech (Computer & Communication Engineering) | 3rd Year  
+🎓 B.Tech (Computer & Communication Engineering) | 4th Year  
 📍 Haryana, India  
 
 I’m a passionate developer who loves building **real-world software solutions** — from enterprise ERP extensions to intelligent web platforms and AI-powered chatbots. I focus on writing **clean, structured, and scalable code** with a strong emphasis on usability and performance.
