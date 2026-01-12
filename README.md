@@ -86,8 +86,8 @@ I’m a passionate developer who loves building **real-world software solutions*
 ## 📫 Connect With Me
 
 - 🌐 Portfolio: *(add your website link here)*
-- 💼 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your professional email here)*
+- 💼 LinkedIn: https://www.linkedin.com/in/srijan-sharma-867733249/
+- 📧 Email: sharmasrijan82@gmail.com
 
 ---
 
